@@ -1,0 +1,70 @@
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.VentanaPrincipal.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.AddCarpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.AddDib.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.Visualizador.resources
+E:\Nayecto\Nayecto\bin\Debug\Nayecto.exe.config
+E:\Nayecto\Nayecto\bin\Debug\Nayecto.exe.manifest
+E:\Nayecto\Nayecto\bin\Debug\Nayecto.application
+E:\Nayecto\Nayecto\bin\Debug\Nayecto.exe
+E:\Nayecto\Nayecto\bin\Debug\Nayecto.pdb
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.csprojResolveAssemblyReference.cache
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.AddCarpeta.resources
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.AddDib.resources
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.CarDefecto.resources
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.VentanaPrincipal.resources
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.Form2.resources
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.Properties.Resources.resources
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.Visualizador.resources
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.csproj.GenerateResource.Cache
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.csproj.CoreCompileInputs.cache
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.exe.manifest
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.application
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.exe
+E:\Nayecto\Nayecto\obj\Debug\Nayecto.pdb
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.AddCarpeta.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.AddDib.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.DelCar.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.VentanaPrincipal.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.Properties.Resources.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.Visualizador.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.csproj.GenerateResource.Cache
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.CamNom.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.exe.config
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.application
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.exe
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.pdb
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.Carpeta.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.ControlCarpeta.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.CtrAddCarpeta.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.Acercade.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.application
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.exe
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.pdb
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.ControlImg.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Debug\Nayecto.ControlAddDib.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.application
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.exe
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Debug\Administrador de dibujos.pdb
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.CamNom.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.Carpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.ControlAddDib.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.ControlCarpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.ControlImg.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.CtrAddCarpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.DelCar.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.Acercade.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.application
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.exe
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Administrador de dibujos.pdb
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Debug\Nayecto.Favoritos.resources

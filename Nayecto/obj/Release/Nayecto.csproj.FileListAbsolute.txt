@@ -1,0 +1,76 @@
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.AddCarpeta.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.AddDib.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.CamNom.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.DelCar.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.DelDib.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.VentanaPrincipal.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.Visualizador.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.csproj.GenerateResource.Cache
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe.config
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Release\Administrador de dibujos.application
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\bin\Release\Administrador de dibujos.pdb
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.Properties.Resources.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Administrador de dibujos.application
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Administrador de dibujos.exe
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Administrador de dibujos.pdb
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.Carpeta.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.Acercade.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.ControlCarpeta.resources
+C:\Users\Adrian\source\repos\Nayecto\Nayecto\obj\Release\Nayecto.CtrAddCarpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe.config
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.application
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.pdb
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.AddCarpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.AddDib.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.CamNom.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Carpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.ControlAddDib.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.ControlCarpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.ControlImg.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.CtrAddCarpeta.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.DelCar.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Favoritos.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.VentanaPrincipal.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Acercade.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Properties.Resources.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Visualizador.resources
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.csproj.GenerateResource.Cache
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.exe.manifest
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.application
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.exe
+C:\Users\Adrian\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.pdb
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe.config
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe.manifest
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.application
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.exe
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\bin\Release\Administrador de dibujos.pdb
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.csprojResolveAssemblyReference.cache
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.AddCarpeta.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.AddDib.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.CamNom.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Carpeta.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.ControlAddDib.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.ControlCarpeta.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.ControlImg.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.CtrAddCarpeta.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.DelCar.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Favoritos.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.VentanaPrincipal.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Acercade.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Properties.Resources.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.Visualizador.resources
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.csproj.GenerateResource.cache
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Nayecto.csproj.CoreCompileInputs.cache
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.exe.manifest
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.application
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.exe
+C:\Users\sneik\Documents\Visual Studio 2017\Projects\Nayecto\Nayecto\obj\Release\Administrador de dibujos.pdb
